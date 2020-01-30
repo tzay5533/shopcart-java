@@ -62,8 +62,8 @@ META-INF/resources/jsp directory contains the UI
      
     
 References:
-https://grokonez.com/spring-framework/spring-data/springjpa-save-filesimages-mysql-database-lob-annotation
-https://www.concretepage.com/spring-boot/spring-boot-crudrepository-example
+* https://grokonez.com/spring-framework/spring-data/springjpa-save-filesimages-mysql-database-lob-annotation
+* https://www.concretepage.com/spring-boot/spring-boot-crudrepository-example
 MVC (Model-View-Controller):
 The model represents a Java object carrying data. The view visualizes the data that the model contains. The controller manages the data flow into model object and updates the view whenever data changes; it keeps view and model separate.
      
